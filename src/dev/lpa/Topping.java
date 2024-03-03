@@ -4,6 +4,7 @@ public enum Topping {
     // These are really just a class, and the constants are instnaces of the class. We can add fields, frex.
     // Can add fields, methods, even constructors.
 
+
     MUSTARD,
     PICKLES,
     BACON,
