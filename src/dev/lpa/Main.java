@@ -20,8 +20,12 @@ public class Main {
 //                System.out.println("Found a Friday!!!!!");
 //            }
 
-            switchDayOfWeek(weekDay);
+//            switchDayOfWeek(weekDay);
+        }
 
+
+        for(Topping topping : Topping.values()){
+            System.out.println(topping.name() + " : " + topping.getPrice());
         }
 
     }
